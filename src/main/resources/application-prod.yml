@@ -7,7 +7,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:8080/yubi
     username: root
-    password: 12345678
+    password: 123456
   # Redis 配置
   # todo 需替换配置
   redis:
