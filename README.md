@@ -103,7 +103,7 @@ spring:
 spring:
   redis:
     database: 1
-    host: localhost
+    host: 8.130.9.159
     port: 6379
     timeout: 5000
     password: 123456
@@ -139,7 +139,7 @@ spring:
 ```yml
 spring:
   elasticsearch:
-    uris: http://localhost:9200
+    uris: http://8.130.9.159:9200
     username: root
     password: 123456
 ```
